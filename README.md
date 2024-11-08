@@ -35,7 +35,9 @@ Robust mechanisms to handle network issues, redirects, and other potential error
 **Installation**
 Ensure you have Python 3.6 or higher installed on your system. Follow the steps below to set up the Ru7 Header Checker:
 
+
 **FAQs**
+
 Q1: What is the purpose of the --save-headers option?
 A1: The --save-headers option allows you to save the HTTP headers retrieved during the scan. You can choose to save no headers (none), only the final response headers (single), or all headers from each step in the redirect chain (all). This feature is useful for in-depth analysis or auditing purposes.
 
